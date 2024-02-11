@@ -1,4 +1,4 @@
-# How to run PyGoatBot in Google Colab
+# How to run PyGoatBot in Google Coolab
 
 Follow these steps to run the PyGoatBot code in Google Colab:
 1. Open a new Google Colab notebook.
